@@ -3,6 +3,8 @@
 Este é um projeto focado no gerenciamento de uma fechadura eletrônica feita com o Raspberry Pi Pico. 
 O guia para construção da fechadura eletrônica além de suas funcionalidades e códigos-fonte estão localizados em: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico). Portanto para uma correta implementação nesta fase do gerenciamento da fechadura é necessário ter seguids todos os passos prévios mencionados.
 
+https://github.com/FernandoHN99/FechaduraEletronica-Node-Red/assets/86134291/a0a0fde2-0bac-45c4-be40-ba9766ca2e57
+
 <h2>⚙️ Funcionalidades do Sistema</h2>
 
 <h4>🕺🏼 Monitoramento de check-in e check-out dos clientes e seus respectivos acessos.</h4>
@@ -32,17 +34,16 @@ Essas instruções permitirão que você consiga realizar uma cópia do projeto 
 <h2>📦 Implementação</h2>
 
 1. Implementação da fechadura Eletrônica: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico)
-   
-2. Fazer a substituição completa do código no Raspberry Pi Pico com o apresentado neste repositório, sem necessidade da cópia do arquivo flows.json (Necessário implementação correta do passo 1)
-   
-3. Conectar-se ao Node-RED instalado em sua máquina e instalar nele os seguintes módulos:
+
+2.  Fazer a substituição completa do código no Raspberry Pi Pico com o apresentado neste repositório, sem necessidade da cópia do arquivo flows.json (Necessário implementação correta do passo 1)
+
+3.  Conectar-se ao Node-RED instalado em sua máquina e instalar nele os seguintes módulos:
     - node-red
     - node-red-dashboard
     - node-red-node-ui-table
     - node-red-node-serialport
 
 4. Importar o arquivo flows.json 
-
 
 <h2>✒️ Autores</h2>
 
