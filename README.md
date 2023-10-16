@@ -2,7 +2,6 @@
 
 Este é um projeto focado no gerenciamento de uma fechadura eletrônica feita com o Raspberry Pi Pico. O guia para construção da fechadura eletrônica além de suas funcionalidades e códigos-fonte estão localizados em: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico). Portanto para uma correta implementação nesta fase do gerenciamento da fechadura é necessário ter seguids todos os passos prévios mencionados.
 
-
 <h2>⚙️ Funcionalidades do Sistema</h2>
 
 <h4>🕺🏼 Monitoramento de check-in e check-out dos clientes e seus respectivos acessos.</h4>
@@ -12,12 +11,14 @@ Este é um projeto focado no gerenciamento de uma fechadura eletrônica feita co
 <h4>🚪 Exibição de aviso de porta aberta.</h4>
 <h4>🚨 Exibição de aviso de invasão.</h4>
 
+<h2>🎬 Começando...</h2>
 
+Essas instruções permitirão que você consiga realizar uma cópia do projeto em operação em seu Node-RED para fins de desenvolvimento e teste.
 <h3>🧑🏻‍💻 Softwares Utilizados</h3>
 
  * [🔗 Node-RED](https://nodered.org/)
 
-<h2>🚀 Diagrama de Blocos</h2>
+<h2>🚀 Instalação</h2>
 
 <ul>
   <li>
@@ -25,11 +26,20 @@ Este é um projeto focado no gerenciamento de uma fechadura eletrônica feita co
     <img width="1116" alt="DiagramaDeBlocos" src="https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico/assets/86134291/83fa63bb-4920-4fe7-9ee4-b308c3ff8d0a">
   </li>
 
+
 <h2>📦 Implementação</h2>
 
 1. Implementação da fechadura Eletrônica: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico)
+   
 2. Fazer a substituição completa do código no Raspberry Pi Pico com o apresentado neste repositório, sem necessidade da cópia do arquivo flows.json (Necessário implementação correta do passo 1)
-3. Conectar-se ao Node-RED já instalado e importar o arquivo flows.json
+   
+3. Conectar-se ao Node-RED instalado em sua máquina e instalar nele os seguintes módulos:
+    - node-red
+    - node-red-dashboard
+    - node-red-node-ui-table
+    - node-red-node-serialport
+
+4. Importar o arquivo flows.json 
 
 
 <h2>✒️ Autores</h2>
