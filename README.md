@@ -30,6 +30,7 @@ Essas instruções permitirão que você consiga realizar uma cópia do projeto 
   </li>
 </ul>
 
+> **Observação:** Para um maior entendimento dos periféricos acessar [🔗 Fechadura Eletrônica com Raspberry Pi Pico (https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico).
 
 <h2>📦 Implementação</h2>
 
