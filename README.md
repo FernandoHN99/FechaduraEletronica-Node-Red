@@ -1,7 +1,7 @@
 <h1>Gerenciamento da Fechadura Eletrônica via Node-RED</h1>
 
 Este é um projeto focado no gerenciamento de uma fechadura eletrônica feita com o Raspberry Pi Pico. 
-O guia para construção da fechadura eletrônica além de suas funcionalidades e códigos-fonte estão localizados em: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico). Portanto para uma correta implementação nesta fase do gerenciamento da fechadura é necessário ter seguids todos os passos prévios mencionados.
+O guia para construção da fechadura eletrônica além de suas funcionalidades e códigos-fonte estão localizados em: [🔗 Fechadura Eletrônica com Raspberry Pi Pico](https://github.com/FernandoHN99/FechaduraEletronica-RaspberryPico). Portanto para uma correta implementação nesta fase do gerenciamento da fechadura é necessário ter seguido todos os passos prévios mencionados.
 
 https://github.com/FernandoHN99/FechaduraEletronica-Node-Red/assets/86134291/a0a0fde2-0bac-45c4-be40-ba9766ca2e57
 
