@@ -21,6 +21,11 @@ Essas instruções permitirão que você consiga realizar uma cópia do projeto 
 
  * [🔗 Node-RED](https://nodered.org/)
 
+<h3>🧑🏻‍💻 Hardwares Utilizados</h3>
+
+* [🔗 Raspberry Pi](
+https://www.raspberrypi.com/products/raspberry-pi-3-model-b-plus/)
+
 <h2>🚀 Instalação</h2>
 
 <ul>
